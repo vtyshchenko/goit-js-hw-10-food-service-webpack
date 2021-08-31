@@ -1,0 +1,25 @@
+{
+  "name": "goit-js-hw-10-food-service-webpack",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "webpack --mode=development",
+    "prod": "webpack --mode=production",
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vtyshchenko/goit-js-hw-10-food-service-webpack.git"
+  },
+  "author": "vtyshchenko",
+  "license": "GPLv3",
+  "bugs": {
+    "url": "https://github.com/vtyshchenko/goit-js-hw-10-food-service-webpack/issues"
+  },
+  "homepage": "https://github.com/vtyshchenko/goit-js-hw-10-food-service-webpack#readme",
+  "devDependencies": {
+    "webpack": "^5.51.1",
+    "webpack-cli": "^4.8.0"
+  }
+}
